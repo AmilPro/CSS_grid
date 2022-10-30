@@ -1,0 +1,99 @@
+*{
+margin: 0px auto;
+padding: 0px;
+}
+
+.main{
+    background-color: coral;
+    width: 100%;
+    height: 600px;
+    float: left;
+}
+.leftL{
+    float: left;
+    background-color: aqua;
+    width: 110px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.center{
+    float: left;
+    background-color: darkgoldenrod;
+    width: 600px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.top{
+    float: left;
+    background-color:violet;
+    width: 600px;
+    height: 80px;
+}
+.topalt{
+    float: left;
+    width:600px ;
+    height:120px ;
+}
+.topaltL{
+    float: left;
+    background-color: brown;
+    width: 285px;
+    height:120px ;
+}
+.topaltR{
+    float: left;
+    background-color: brown;
+    width: 285px;
+    height:120px ;
+    margin-left: 30px;
+}
+.centerB{
+    float: left;
+    width: 600px;
+    height: 300px;
+}
+.centerBL{
+    float: left;
+    background-color:yellow;
+    width: 150px;
+    height: 300px;
+}
+.agseven{
+    float:left;
+    background-color: chartreuse;
+    width: 430px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+.eighttwo{
+    float: left;
+    background-color:chartreuse;
+    width: 430px;
+    height:  90px;
+    margin-left: 20px;
+}
+
+.ageight{
+    float: left;
+    background-color: violet;
+    width: 205px;
+    height: 90px;
+}
+.agenine{
+    float: left;
+    background-color: violet;
+    width: 205px;
+    height: 90px;
+    margin-left: 20px;
+}
+.agten{
+    float: left;
+    background-color:red;
+    width: 430px;
+    height: 110px;
+    margin-left: 20px;
+}
+
